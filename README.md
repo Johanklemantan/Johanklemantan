@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**Johanklemantan/Johanklemantan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there 👋 
+My name's Johan
+I'm a new fish 🐟 in this industry
+<img src='https://mir-s3-cdn-cf.behance.net/project_modules/disp/a1616432873329.5696cb951b3c1.gif'>
+- 🏠 I'm based on Semarang, Central Java, Indonesia
+- 🔭 I’m currently working on projects about machine learning classification
+- 🌱 I’m currently learning Python --> actually got really interesting in modeling part
+- 👯 I’m looking to collaborate on somebody who got the same passion (contact me, we can learn together). Belive me, learning alone is not fun.
+- 📫 You can contact me at : 
+    <a href='www.linkedin.com/in/johanklemantan'>LinkedIn</a>
+- ⚡ Fun fact: Right now I'm unemployeed. Yeay. Looking for job in e-commerce industry related to data !
