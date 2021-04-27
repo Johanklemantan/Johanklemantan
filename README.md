@@ -2,7 +2,7 @@
 My name's Johan
 I'm a new fish 🐟 in this industry
 <img src='fish.gif'>
-- 🏠 I'm based on Semarang, Central Java, Indonesia
+- 🏠 Jakarta, Indonesia
 - 🔭 I just graduated from Purwadhika, a coding bootcamp school in Indonesia
 - 🌱 I’m currently seeking for job opportunity in Data Industry.
 - 👯 I’m looking to collaborate on somebody who got the same passion (contact me, we can learn together). Belive me, learning alone is not fun.
